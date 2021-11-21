@@ -1,0 +1,3000 @@
+a,a
+abandon,terk etmek
+ability,Yetenek
+able,yapabilmek
+abortion,kürtaj
+about,hakkında
+above,üstünde
+abroad,yurt dışına
+absence,yokluk
+absolute,mutlak
+absolutely,kesinlikle
+absorb,absorbe etmek
+abuse,taciz
+academic,akademik
+accept,kabul
+access,erişim
+accident,kaza
+accompany,eşlik etmek
+accomplish,sonuçlandırmak
+according,binaen
+account,hesap
+accurate,kesin
+accuse,suçlamak
+achieve,başarmak
+achievement,başarı
+acid,asit
+acknowledge,kabullenmek
+acquire,elde etmek
+across,karşısında
+act,davranmak
+action,eylem
+active,aktif
+activist,eylemci
+activity,aktivite
+actor,aktör
+actress,aktris
+actual,gerçek
+actually,aslında
+ad,reklam
+adapt,adapte olmak
+add,Ekle
+addition,ek
+additional,ek olarak
+address,adres
+adequate,yeterli
+adjust,ayarlamak
+adjustment,ayar
+administration,Yönetim
+administrator,yönetici
+admire,beğenmek
+admission,kabul
+admit,Kabul et
+adolescent,ergen
+adopt,evlat edinmek
+adult,yetişkin
+advance,ilerlemek
+advanced,ileri
+advantage,avantaj
+adventure,macera
+advertising,reklam
+advice,tavsiye
+advise,öğüt vermek
+adviser,danışman
+advocate,savunucu
+affair,mesele
+affect,etkilemek
+afford,gücü yetmek
+afraid,korkmuş
+African,Afrikalı
+African-American,Afrikan Amerikan
+after,sonrasında
+afternoon,öğleden sonra
+again,Yeniden
+against,karşısında
+age,yaş
+agency,Ajans
+agenda,Gündem
+agent,ajan
+aggressive,agresif
+ago,evvel
+agree,Katılıyorum
+agreement,anlaşma
+agricultural,tarımsal
+ah,Ah
+ahead,ilerde
+aid,yardım
+aide,yardımcı
+AIDS,AIDS
+aim,amaç
+air,hava
+aircraft,uçak
+airline,havayolu
+airport,havalimanı
+album,albüm
+alcohol,alkol
+alive,canlı
+all,herşey
+alliance,ittifak
+allow,izin vermek
+ally,müttefik
+almost,hemen hemen
+alone,tek başına
+along,boyunca
+already,çoktan
+also,Ayrıca
+alter,değiştirmek
+alternative,alternatif
+although,olmasına rağmen
+always,her zaman
+AM,NS
+amazing,inanılmaz
+American,Amerikan
+among,arasında
+amount,Miktar
+analysis,analiz
+analyst,analist
+analyze,analiz etmek
+ancient,Antik
+and,ve
+anger,kızgınlık
+angle,açı
+angry,sinirli
+animal,hayvan
+anniversary,yıl dönümü
+announce,duyurmak
+annual,yıllık
+another,bir diğeri
+answer,Cevap
+anticipate,tahmin etmek
+anxiety,endişe
+any,herhangi
+anybody,kimse
+anymore,artık değil
+anyone,kimse
+anything,herhangi bir şey
+anyway,her neyse
+anywhere,herhangi bir yere
+apart,ayrı
+apartment,apartman
+apparent,belirgin
+apparently,görünen o ki
+appeal,çekici
+appear,belli olmak
+appearance,dış görünüş
+apple,elma
+application,başvuru
+apply,uygulamak
+appoint,tayin etmek
+appointment,randevu
+appreciate,takdirle karşılamak
+approach,yaklaşmak
+appropriate,uygun
+approval,onay
+approve,onaylamak
+approximately,aşağı yukarı
+Arab,Arap
+architect,Mimar
+area,alan
+argue,tartışmak
+argument,argüman
+arise,kalkmak
+arm,kol
+armed,silahlı
+army,Ordu
+around,etrafında
+arrange,düzenlemek
+arrangement,aranjman
+arrest,tutuklamak
+arrival,varış
+arrive,varmak
+art,Sanat
+article,makale
+artist,sanatçı
+artistic,sanatsal
+as,olarak
+Asian,Asya
+aside,kenara
+ask,sormak
+asleep,uyuya kalmak
+aspect,Görünüş
+assault,saldırı
+assert,iddia etmek
+assess,değerlendirmek
+assessment,değerlendirme
+asset,varlık
+assign,atamak
+assignment,atama
+assist,yardım
+assistance,yardım
+assistant,asistan
+associate,iş arkadaşı
+association,bağlantı
+assume,farz etmek
+assumption,Varsayım
+assure,garanti etmek
+at,NS
+athlete,atlet
+athletic,atletik
+atmosphere,atmosfer
+attach,eklemek
+attack,saldırı
+attempt,teşebbüs etmek
+attend,katılmak
+attention,dikkat
+attitude,davranış
+attorney,avukat
+attract,çekmek
+attractive,çekici
+attribute,bağlanmak
+audience,kitle
+author,yazar
+authority,yetki
+auto,Oto
+available,mevcut
+average,ortalama
+avoid,önlemek
+award,ödül
+aware,farkında olmak
+awareness,farkındalık
+away,uzak
+awful,berbat
+baby,bebek
+back,geri
+background,arka fon
+bad,kötü
+badly,kötü
+bag,çanta
+bake,pişirmek
+balance,denge
+ball,top
+ban,yasaklamak
+band,grup
+bank,banka
+bar,bar
+barely,zar zor
+barrel,varil
+barrier,bariyer
+base,temel
+baseball,beyzbol
+basic,temel
+basically,temel olarak
+basis,temel
+basket,sepet
+basketball,Basketbol
+bathroom,banyo
+battery,pil
+battle,savaş
+be,olmak
+beach,plaj
+bean,fasulye
+bear,dayanmak
+beat,vurmak
+beautiful,güzel
+beauty,güzellik
+because,Çünkü
+become,olmak
+bed,yatak
+bedroom,yatak odası
+beer,bira
+before,önce
+begin,başlamak
+beginning,başlangıç
+behavior,davranış
+behind,arka
+being,olmak
+belief,inanç
+believe,inanmak
+bell,zil
+belong,ait olmak
+below,aşağıda
+belt,Kemer
+bench,Bank
+bend,Bükmek
+beneath,altında
+benefit,fayda
+beside,yanında
+besides,dışında
+best,en iyisi
+bet,bahis
+better,daha iyi
+between,arasında
+beyond,Öte
+Bible,Kutsal Kitap
+big,büyük
+bike,bisiklet
+bill,fatura
+billion,milyar
+bind,bağlamak
+biological,biyolojik
+bird,kuş
+birth,doğum
+birthday,doğum günü
+bit,biraz
+bite,ısırmak
+black,siyah
+blade,bıçak ağzı
+blame,suçlamak
+blanket,battaniye
+blind,görme engelli
+block,engellemek
+blood,kan
+blow,üflemek
+blue,Mavi
+board,yazı tahtası
+boat,bot
+body,vücut
+bomb,bomba
+bombing,bombalama
+bond,bağlamak
+bone,kemik
+book,kitap
+boom,Boom
+boot,bot
+border,sınır
+born,doğmak
+borrow,borç almak
+boss,Müdür
+both,ikisi birden
+bother,zahmet
+bottle,şişe
+bottom,alt
+boundary,sınır
+bowl,tas
+box,kutu
+boy,oğlan
+boyfriend,erkek arkadaş
+brain,beyin
+branch,dal
+brand,marka
+bread,ekmek
+break,kırmak
+breakfast,kahvaltı
+breast,meme
+breath,nefes
+breathe,nefes almak
+brick,tuğla
+bridge,köprü
+brief,kısa bilgi
+briefly,kısaca
+bright,parlak
+brilliant,parlak
+bring,getirmek
+British,ingiliz
+broad,kalın
+broken,bozuldu
+brother,Erkek kardeş
+brown,Kahverengi
+brush,fırçalamak
+buck,para
+budget,bütçe
+build,yapı
+building,bina
+bullet,mermi
+bunch,Demet
+burden,yük
+burn,yakmak
+bury,gömmek
+bus,otobüs
+business,işletme
+busy,meşgul
+but,ancak
+butter,Tereyağı
+button,buton
+buy,satın almak
+buyer,alıcı
+by,tarafından
+cabin,kabin
+cabinet,kabine
+cable,kablo
+cake,Kek
+calculate,hesaplamak
+call,Arama
+camera,kamera
+camp,kamp
+campaign,kampanya
+campus,yerleşke
+can,Yapabilmek
+Canadian,Kanadalı
+cancer,Yengeç Burcu
+candidate,aday
+cap,kap
+capability,kabiliyet
+capable,yetenekli
+capacity,kapasite
+capital,Başkent
+captain,Kaptan
+capture,ele geçirmek
+car,araba
+carbon,karbon
+card,kart
+care,bakım
+career,kariyer
+careful,dikkatli olmak
+carefully,dikkatlice
+carrier,taşıyıcı
+carry,Taşımak
+case,durum
+cash,peşin
+cast,döküm
+cat,kedi
+catch,tutmak
+category,kategori
+Catholic,Katolik
+cause,neden
+ceiling,tavan
+celebrate,kutlamak
+celebration,kutlama
+celebrity,ünlü
+cell,hücre
+center,merkez
+central,merkezi
+century,Yüzyıl
+CEO,CEO
+ceremony,tören
+certain,belirli
+certainly,kesinlikle
+chain,zincir
+chair,sandalye
+chairman,başkan
+challenge,meydan okuma
+chamber,bölme
+champion,şampiyon
+championship,şampiyonluk
+chance,şans
+change,değiştirmek
+changing,değiştirme
+channel,kanal
+chapter,bölüm
+character,karakter
+characteristic,karakteristik
+characterize,karakterize etmek
+charge,şarj etmek
+charity,hayır kurumu
+chart,Çizelge
+chase,kovalamak
+cheap,ucuz
+check,Kontrol
+cheek,yanak
+cheese,peynir
+chef,şef
+chemical,kimyasal
+chest,göğüs
+chicken,Tavuk
+chief,şef
+child,çocuk
+childhood,çocukluk
+Chinese,Çince
+chip,yonga
+chocolate,çikolata
+choice,tercih
+cholesterol,kolesterol
+choose,Seç
+Christian,Hristiyan
+Christmas,Noel
+church,kilise
+cigarette,sigara
+circle,Daire
+circumstance,durum
+cite,anmak
+citizen,vatandaş
+city,Kent
+civil,sivil
+civilian,sivil
+claim,iddia
+class,sınıf
+classic,klasik
+classroom,sınıf
+clean,temiz
+clear,açık
+clearly,Açıkça
+client,müşteri
+climate,iklim
+climb,tırmanmak
+clinic,klinik
+clinical,klinik
+clock,saat
+close,kapat
+closely,yakından
+closer,daha yakın
+clothes,çamaşırlar
+clothing,Giyim
+cloud,Bulut
+club,kulüp
+clue,ipucu
+cluster,küme
+coach,Koç
+coal,kömür
+coalition,koalisyon
+coast,sahil
+coat,ceket
+code,kod
+coffee,Kahve
+cognitive,bilişsel
+cold,soğuk
+collapse,çöküş
+colleague,çalışma arkadaşı
+collect,toplamak
+collection,Toplamak
+collective,toplu
+college,kolej
+colonial,sömürge
+color,renk
+column,kolon
+combination,kombinasyon
+combine,birleştirmek
+come,Gelmek
+comedy,komedi
+comfort,konfor
+comfortable,rahat
+command,emretmek
+commander,komutan
+comment,Yorum
+commercial,reklam
+commission,komisyon
+commit,işlemek
+commitment,bağlılık
+committee,Kurul
+common,yaygın
+communicate,iletişim kurmak
+communication,iletişim
+community,toplum
+company,şirket
+compare,karşılaştırmak
+comparison,karşılaştırmak
+compete,rekabet etmek
+competition,yarışma
+competitive,rekabetçi
+competitor,yarışmacı
+complain,şikayet etmek
+complaint,şikayet
+complete,tamamlayınız
+completely,tamamen
+complex,karmaşık
+complicated,karmaşık
+component,bileşen
+compose,oluşturmak
+composition,kompozisyon
+comprehensive,kapsamlı
+computer,bilgisayar
+concentrate,yoğunlaşmak
+concentration,konsantrasyon
+concept,kavram
+concern,kaygı
+concerned,endişeli
+concert,konser
+conclude,sonuçlandırmak
+conclusion,çözüm
+concrete,beton
+condition,şart
+conduct,yönetmek
+conference,konferans
+confidence,kendinden emin
+confident,kendinden emin
+confirm,onaylamak
+conflict,çatışma
+confront,karşısına çıkmak
+confusion,bilinç bulanıklığı, konfüzyon
+Congress,Kongre
+congressional,kongre
+connect,bağlamak
+connection,bağlantı
+consciousness,bilinç
+consensus,uzlaşma
+consequence,sonuç
+conservative,tutucu
+consider,düşünmek
+considerable,önemli
+consideration,düşünce
+consist,meydana gelmek
+consistent,tutarlı
+constant,devamlı
+constantly,sürekli
+constitute,oluşturmak
+constitutional,anayasal
+construct,inşa etmek
+construction,yapı
+consultant,danışman
+consume,tüketmek
+consumer,tüketici
+consumption,tüketim
+contact,İletişim
+contain,içermek
+container,konteyner
+contemporary,modern
+content,içerik
+contest,yarışma
+context,bağlam
+continue,devam et
+continued,devam etti
+contract,sözleşme
+contrast,zıtlık
+contribute,katkıda bulunmak
+contribution,katkı
+control,kontrol
+controversial,kontrollü
+controversy,tartışma
+convention,ortak düşünce
+conventional,geleneksel
+conversation,konuşma
+convert,dönüştürmek
+conviction,mahkumiyet
+convince,ikna etmek
+cook,pişirmek
+cookie,kurabiye
+cooking,yemek pişirme
+cool,güzel
+cooperation,işbirliği
+cop,polis
+cope,başa çıkmak
+copy,kopyalamak
+core,çekirdek
+corn,Mısır
+corner,köşe
+corporate,Kurumsal
+corporation,şirket
+correct,doğru
+correspondent,muhabir
+cost,maliyet
+cotton,pamuk
+couch,kanepe
+could,abilir
+council,konsey
+counselor,danışman
+count,saymak
+counter,tezgah
+country,ülke
+county,ilçe
+couple,çift
+courage,cesaret
+course,kurs
+court,mahkeme
+cousin,kuzen
+cover,örtmek
+coverage,kapsama
+cow,inek
+crack,çatırtı
+craft,zanaat
+crash,kaza
+crazy,deli
+cream,krem
+create,oluşturmak
+creation,yaratılış
+creative,yaratıcı
+creature,yaratık
+credit,kredi
+crew,mürettebat
+crime,suç
+criminal,adli
+crisis,kriz
+criteria,kriterler
+critic,eleştirmen
+critical,kritik
+criticism,eleştiri
+criticize,eleştirmek
+crop,mahsul
+cross,geçmek
+crowd,kalabalık
+crucial,hayati
+cry,Ağla
+cultural,kültürel
+culture,kültür
+cup,Fincan
+curious,Meraklı
+current,akım
+currently,şu anda
+curriculum,Müfredat
+custom,gelenek
+customer,müşteri
+cut,kesmek
+cycle,Çevrim
+dad,baba
+daily,günlük
+damage,hasar
+dance,dans
+danger,tehlike
+dangerous,tehlikeli
+dare,cesaret etmek
+dark,karanlık
+darkness,karanlık
+data,veri
+date,tarih
+daughter,kız evlat
+day,gün
+dead,ölü
+deal,anlaştık mı
+dealer,satıcı
+dear,canım
+death,ölüm
+debate,çekişme
+debt,borç
+decade,on yıl
+decide,karar ver
+decision,karar
+deck,güverte
+declare,bildirmek
+decline,reddetmek
+decrease,azalmak
+deep,derin
+deeply,derinden
+deer,Geyik
+defeat,yenmek
+defend,savunmak
+defendant,sanık
+defense,savunma
+defensive,savunma
+deficit,açık
+define,tanımlamak
+definitely,kesinlikle
+definition,tanım
+degree,derece
+delay,gecikme
+deliver,teslim etmek
+delivery,teslimat
+demand,talep etmek
+democracy,demokrasi
+Democrat,Demokrat
+democratic,demokratik
+demonstrate,göstermek
+demonstration,gösteri
+deny,inkar etmek
+department,departman
+depend,bağlı olmak
+dependent,bağımlı
+depending,bağlı olarak
+depict,göstermek
+depression,depresyon
+depth,derinlik
+deputy,Milletvekili
+derive,türetmek
+describe,betimlemek
+description,tanım
+desert,çöl
+deserve,hak etmek
+design,tasarım
+designer,tasarımcı
+desire,arzu
+desk,çalışma masası
+desperate,çaresiz
+despite,aksine
+destroy,tahrip etmek
+destruction,yıkım
+detail,detay
+detailed,detaylı
+detect,tespit etmek
+determine,belirlemek
+develop,geliştirmek
+developing,gelişmekte
+development,gelişim
+device,cihaz
+devote,adamak
+dialogue,diyalog
+die,ölmek
+diet,diyet
+differ,farklılık
+difference,fark
+different,farklı
+differently,farklı
+difficult,zor
+difficulty,zorluk
+dig,kazmak
+digital,dijital
+dimension,boyut
+dining,yemek
+dinner,akşam yemeği
+direct,doğrudan
+direction,yön
+directly,direkt olarak
+director,Müdür
+dirt,kir
+dirty,kirli
+disability,sakatlık
+disagree,aynı fikirde olmamak
+disappear,yok olmak
+disaster,felaket
+discipline,disiplin
+discourse,söylem
+discover,keşfetmek
+discovery,keşif
+discrimination,ayrımcılık
+discuss,tartışmak
+discussion,tartışma
+disease,hastalık
+dish,yemek
+dismiss,Reddet
+disorder,düzensizlik
+display,Görüntüle
+dispute,anlaşmazlık
+distance,mesafe
+distant,mesafe
+distinct,belirgin
+distinction,ayrım
+distinguish,ayırmak
+distribute,dağıtmak
+distribution,dağıtım
+district,semt
+diverse,türlü
+diversity,çeşitlilik
+divide,bölmek
+division,Bölüm
+divorce,boşanmak
+DNA,DNA
+do,yapmak
+doctor,doktor
+document,belge
+dog,köpek
+domestic,yerel
+dominant,baskın
+dominate,hükmetmek
+door,kapı
+double,çift
+doubt,şüphe
+down,aşağı
+downtown,şehir merkezi
+dozen,düzine
+draft,taslak
+drag,sürüklemek
+drama,drama
+dramatic,dramatik
+dramatically,dramatik olarak
+draw,Berabere
+drawing,resim çizme
+dream,rüya
+dress,elbise
+drink,İçmek
+drive,sürmek
+driver,sürücü
+drop,düşürmek
+drug,ilaç
+dry,kuru
+due,vadesi dolmuş
+during,sırasında
+dust,toz
+duty,görev
+each,her biri
+eager,istekli
+ear,kulak
+early,erken
+earn,para kazanmak
+earnings,kazanç
+earth,toprak
+ease,kolaylaştırmak
+easily,kolayca
+east,Doğu
+eastern,doğu
+easy,kolay
+eat,yemek yemek
+economic,ekonomik
+economics,ekonomi
+economist,iktisatçı
+economy,ekonomi
+edge,köşe
+edition,baskı
+editor,editör
+educate,Eğitim vermek
+education,Eğitim
+educational,eğitici
+educator,eğitimci
+effect,Efekt
+effective,etkili
+effectively,etkili bir şekilde
+efficiency,yeterlik
+efficient,verimli
+effort,çaba göstermek
+egg,Yumurta
+eight,sekiz
+either,herhangi biri
+elderly,yaşlı
+elect,seçmek
+election,seçim
+electric,elektrik
+electricity,elektrik
+electronic,elektronik
+element,eleman
+elementary,temel
+eliminate,bertaraf etmek
+elite,seçkinler
+else,Başka
+elsewhere,başka yerde
+e-mail,e-posta
+embrace,kucaklamak
+emerge,ortaya çıkmak
+emergency,acil Durum
+emission,emisyon
+emotion,duygu
+emotional,duygusal
+emphasis,vurgu
+emphasize,vurgulamak
+employ,kullanmak
+employee,çalışan
+employer,iş veren
+employment,iş
+empty,boş
+enable,etkinleştirme
+encounter,rastlamak
+encourage,teşvik etmek
+end,son
+enemy,düşman
+energy,enerji
+enforcement,icra
+engage,Tut
+engine,motor
+engineer,mühendis
+engineering,mühendislik
+English,İngilizce
+enhance,genişletmek
+enjoy,eğlence
+enormous,Kocaman
+enough,yeterli
+ensure,emin olmak
+enter,girmek
+enterprise,girişim
+entertainment,eğlence
+entire,bütün
+entirely,Baştan sona
+entrance,giriş
+entry,giriş
+environment,Çevre
+environmental,çevresel
+episode,Bölüm
+equal,eşit
+equally,eşit olarak
+equipment,teçhizat
+era,çağ
+error,hata
+escape,kaçmak
+especially,özellikle
+essay,makale
+essential,gerekli
+essentially,esasen
+establish,kurmak
+establishment,kuruluş
+estate,arazi
+estimate,tahmin etmek
+etc,vesaire
+ethics,etik
+ethnic,etnik
+European,Avrupalı
+evaluate,değerlendirmek
+evaluation,değerlendirme
+even,hatta
+evening,akşam
+event,Etkinlik
+eventually,Sonuçta
+ever,durmadan
+every,her
+everybody,herkes
+everyday,Her gün
+everyone,herkes
+everything,her şey
+everywhere,her yerde
+evidence,kanıt
+evolution,evrim
+evolve,Evrim geçirmek
+exact,bire bir aynı
+exactly,kesinlikle
+examination,muayene
+examine,muayene etmek
+example,örnek
+exceed,aşmak
+excellent,harika
+except,hariç
+exception,istisna
+exchange,değiş tokuş
+exciting,heyecan verici
+executive,yönetici
+exercise,egzersiz yapmak
+exhibit,sergilemek
+exhibition,sergi
+exist,mevcut
+existence,varoluş
+existing,var olan
+expand,genişletmek
+expansion,genişleme
+expect,beklemek
+expectation,beklenti
+expense,masraf
+expensive,masraflı
+experience,tecrübe etmek
+experiment,deney
+expert,uzman
+explain,açıklamak
+explanation,açıklama
+explode,patlamak
+explore,keşfetmek
+explosion,patlama
+expose,ortaya çıkarmak
+exposure,teşhir
+express,ifade etmek
+expression,ifade
+extend,uzatmak
+extension,uzantı
+extensive,yaygın
+extent,kapsam
+external,harici
+extra,ekstra
+extraordinary,olağanüstü
+extreme,aşırı
+extremely,aşırı boyutta
+eye,göz
+fabric,kumaş
+face,yüz
+facility,tesis
+fact,hakikat
+factor,faktör
+factory,fabrika
+faculty,Fakülte
+fade,solmak
+fail,hata
+failure,arıza
+fair,adil
+fairly,adil bir şekilde
+faith,inanç
+fall,düşmek
+false,YANLIŞ
+familiar,tanıdık
+family,aile
+famous,tanınmış
+fan,fan
+fantasy,fantezi
+far,uzak
+farm,Çiftlik
+farmer,çiftçi
+fashion,moda
+fast,hızlı
+fat,yağ
+fate,kader
+father,baba
+fault,arıza
+favor,iyilik
+favorite,favori
+fear,korkmak
+feature,özellik
+federal,federal
+fee,ücret
+feed,beslemek
+feel,hissetmek
+feeling,duygu
+fellow,dost
+female,dişi
+fence,çit
+few,bir kaç
+fewer,daha az
+fiber,lif
+fiction,kurgu
+field,alan
+fifteen,on beş
+fifth,beşinci
+fifty,elli
+fight,kavga etmek
+fighter,savaşçı
+fighting,savaş
+figure,figür
+file,dosya
+fill,doldurmak
+film,film
+final,son
+finally,nihayet
+finance,finans
+financial,parasal
+find,bulmak
+finding,bulma
+fine,iyi
+finger,parmak
+finish,bitiş
+fire,ateş
+firm,firma
+first,ilk
+fish,balık
+fishing,Balık tutma
+fit,Uygun
+fitness,Fitness
+five,beş
+fix,düzeltmek
+flag,bayrak
+flame,alev
+flat,düz
+flavor,lezzet
+flee,kaçmak
+flesh,et
+flight,uçuş
+float,batmadan yüzmek
+floor,zemin
+flow,akış
+flower,çiçek
+fly,uçmak
+focus,odak
+folk,halk
+follow,takip et
+following,Takip etmek
+food,Gıda
+foot,ayak
+football,Futbol
+for,için
+force,Kuvvet
+foreign,Dış
+forest,Orman
+forever,sonsuza kadar
+forget,unutmak
+form,biçim
+formal,resmi
+formation,oluşum
+former,önceki
+formula,formül
+forth,ileri
+fortune,talih
+forward,ileri
+found,bulundu
+foundation,temel
+founder,kurucu
+four,dört
+fourth,dördüncü
+frame,çerçeve
+framework,çerçeve
+free,Bedava
+freedom,özgürlük
+freeze,donmak
+French,Fransızca
+frequency,Sıklık
+frequent,sık
+frequently,sık sık
+fresh,taze
+friend,arkadaş
+friendly,arkadaş canlısı
+friendship,dostluk
+from,itibaren
+front,ön
+fruit,meyve
+frustration,hüsran
+fuel,yakıt
+full,tam dolu
+fully,tamamen
+fun,eğlence
+function,işlev
+fund,fon, sermaye
+fundamental,temel
+funding,finansman
+funeral,cenaze
+funny,eğlenceli
+furniture,mobilya
+furthermore,Üstelik
+future,gelecek
+gain,kazanmak
+galaxy,gökada
+gallery,galeri
+game,oyun
+gang,çete
+gap,açıklık
+garage,garaj
+garden,Bahçe
+garlic,Sarımsak
+gas,gaz
+gate,geçit
+gather,toplamak
+gay,eşcinsel
+gaze,bakış
+gear,vites
+gender,Cinsiyet
+gene,gen
+general,Genel
+generally,Genel olarak
+generate,üretmek
+generation,nesil
+genetic,genetik
+gentleman,beyefendi
+gently,nazikçe
+German,Almanca
+gesture,mimik
+get,elde etmek
+ghost,hayalet
+giant,devasa
+gift,hediye
+gifted,yetenekli
+girl,kız
+girlfriend,kız arkadaşı
+give,vermek
+given,verilen
+glad,memnun
+glance,bakış atmak
+glass,bardak
+global,küresel
+glove,eldiven
+go,Git
+goal,hedef
+God,Tanrı
+gold,altın
+golden,altın
+golf,golf
+good,iyi
+government,Devlet
+governor,Vali
+grab,yakalamak
+grade,Seviye
+gradually,gitgide
+graduate,mezun olmak
+grain,tahıl
+grand,büyük
+grandfather,Büyük baba
+grandmother,Nene
+grant,hibe
+grass,Çimen
+grave,mezar
+gray,gri
+great,harika
+greatest,En büyük
+green,Yeşil
+grocery,Bakkal
+ground,zemin
+group,grup
+grow,büyümek
+growing,büyüyen
+growth,büyüme
+guarantee,garanti
+guard,koruma
+guess,tahmin etmek
+guest,konuk
+guide,kılavuz
+guideline,yönerge
+guilty,suçlu
+gun,silah
+guy,adam
+habit,alışkanlık
+habitat,yetişme ortamı
+hair,saç
+half,yarım
+hall,salon
+hand,el
+handful,avuç
+handle,üstesinden gelmek
+hang,asmak
+happen,olmak
+happy,mutlu
+hard,zor
+hardly,zorlukla
+hat,şapka
+hate,nefret
+have,Sahip olmak
+he,o
+head,kafa
+headline,başlık
+headquarters,Merkez
+health,sağlık
+healthy,sağlıklı
+hear,duymak
+hearing,işitme
+heart,kalp
+heat,sıcaklık
+heaven,cennet
+heavily,ağır şekilde
+heavy,ağır
+heel,topuk
+height,boy uzunluğu
+helicopter,helikopter
+hell,cehennem
+hello,Merhaba
+help,Yardım
+helpful,yardımsever
+her,ona
+here,Burada
+heritage,miras
+hero,kahraman
+herself,kendini
+hey,Merhaba
+hi,Selam
+hide,saklamak
+high,yüksek
+highlight,vurgulamak
+highly,büyük ölçüde
+highway,otoyol
+hill,Tepe
+him,o
+himself,kendisi
+hip,belki
+hire,kiralamak
+his,onun
+historian,tarihçi
+historic,tarihi
+historical,tarihi
+history,Tarih
+hit,vurmak
+hold,tutmak
+hole,delik
+holiday,tatil
+holy,kutsal
+home,ev
+homeless,evsiz
+honest,açık sözlü
+honey,bal
+honor,Onur
+hope,umut
+horizon,ufuk
+horror,korku
+horse,atış
+hospital,hastane
+host,ev sahibi
+hot,sıcak
+hotel,otel
+hour,saat
+house,ev
+household,ev
+housing,Konut
+how,nasıl
+however,Yine de
+huge,Kocaman
+human,insan
+humor,Mizah
+hundred,yüz
+hungry,aç
+hunter,avcı
+hunting,avlanma
+hurt,acıtmak
+husband,erkek eş
+hypothesis,hipotez
+I,ben
+ice,buz
+idea,fikir
+ideal,ideal
+identification,Tanılama
+identify,tanımlamak
+identity,Kimlik
+ie,yani
+if,Eğer
+ignore,görmezden gelmek
+ill,hasta
+illegal,yasadışı
+illness,hastalık
+illustrate,gözünde canlandırmak
+image,resim
+imagination,hayal gücü
+imagine,düşünmek
+immediate,acil
+immediately,hemen
+immigrant,göçmen
+immigration,göçmenlik
+impact,darbe
+implement,uygulamak
+implication,Ima
+imply,ima etmek
+importance,önem
+important,önemli
+impose,empoze etmek
+impossible,imkansız
+impress,etkilemek
+impression,izlenim
+impressive,etkileyici
+improve,geliştirmek
+improvement,Gelişme
+in,içinde
+incentive,teşvik
+incident,olay
+include,Dahil etmek
+including,dahil olmak üzere
+income,Gelir
+incorporate,firma kurmak
+increase,arttırmak
+increased,artırılmış
+increasing,artan
+increasingly,giderek
+incredible,inanılmaz
+indeed,aslında
+independence,bağımsızlık
+independent,bağımsız
+index,dizin
+Indian,Hintli
+indicate,belirtmek
+indication,gösterge
+individual,bireysel
+industrial,Sanayi
+industry,sanayi
+infant,bebek
+infection,enfeksiyon
+inflation,şişirme
+influence,etki
+inform,bilgi vermek
+information,bilgi
+ingredient,bileşen
+initial,ilk
+initially,ilk olarak
+initiative,girişim
+injury,yaralanma
+inner,iç
+innocent,masum
+inquiry,soruşturma
+inside,içeri
+insight,içgörü
+insist,ısrar
+inspire,ilham vermek
+install,Yüklemek
+instance,misal
+instead,Bunun yerine
+institution,kurum
+institutional,kurumsal
+instruction,talimat
+instructor,eğitmen
+instrument,müzik aleti
+insurance,sigorta
+intellectual,entelektüel
+intelligence,zeka
+intend,niyetinde
+intense,yoğun
+intensity,yoğunluk
+intention,niyet
+interaction,etkileşim
+interest,faiz
+interested,Ilgilenen
+interesting,ilginç
+internal,dahili
+international,Uluslararası
+Internet,internet
+interpret,yorumlamak
+interpretation,tercüme
+intervention,araya girmek
+interview,röportaj yapmak
+into,içine
+introduce,tanıtmak
+introduction,Giriş
+invasion,istila
+invest,yatırım
+investigate,incelemek
+investigation,soruşturma
+investigator,araştırmacı
+investment,yatırım
+investor,yatırımcı
+invite,Davet et
+involve,kapsak
+involved,dahil olmuş
+involvement,katılım
+Iraqi,Irak
+Irish,İrlandalı
+iron,Demir
+Islamic,İslami
+island,Adalet
+Israeli,İsrailli
+issue,konu
+it,o
+Italian,İtalyan
+item,kalem
+its,onun
+itself,kendisi
+jacket,ceket
+jail,hapishane
+Japanese,Japonca
+jet,jet
+Jew,Yahudi
+Jewish,Yahudi
+job,Görev
+join,katılmak
+joint,eklem yeri
+joke,şaka
+journal,günlük
+journalist,gazeteci
+journey,seyahat
+joy,neşe
+judge,hakim
+judgment,yargı
+juice,Meyve suyu
+jump,zıplamak
+junior,genç
+jury,jüri
+just,sadece
+justice,Adalet
+justify,savunmak
+keep,Tut
+key,anahtar
+kick,Atmak
+kid,çocuk
+kill,öldürmek
+killer,katil
+killing,öldürme
+kind,tür
+king,Kral
+kiss,öpücük
+kitchen,mutfak
+knee,diz
+knife,bıçak
+knock,vurmak
+know,bilmek
+knowledge,bilgi
+lab,laboratuvar
+label,etiket
+labor,iş gücü
+laboratory,laboratuvar
+lack,eksiklik
+lady,Hanım
+lake,göl
+land,Kara
+landscape,manzara
+language,dilim
+lap,kucak
+large,büyük
+largely,büyük oranda
+last,geçen
+late,geç
+later,sonra
+Latin,Latince
+latter,ikincisi
+laugh,gülmek
+launch,başlatmak
+law,kanun
+lawn,çim
+lawsuit,dava
+lawyer,avukat
+lay,sermek
+layer,katman
+lead,öncülük etmek
+leader,Önder
+leadership,liderlik
+leading,lider
+leaf,Yaprak
+league,lig
+lean,eğilmek
+learn,öğrenmek
+learning,öğrenme
+least,en az
+leather,deri
+leave,ayrılmak
+left,sol
+leg,bacak
+legacy,miras
+legal,yasal
+legend,efsane
+legislation,mevzuat
+legitimate,meşru
+lemon,Limon
+length,uzunluk
+less,az
+lesson,ders
+let,İzin Vermek
+letter,mektup
+level,seviye
+liberal,liberal
+library,kütüphane
+license,lisans
+lie,Yalan
+life,hayat
+lifestyle,yaşam tarzı
+lifetime,ömür
+lift,kaldırmak
+light,ışık
+like,sevmek
+likely,büyük ihtimalle
+limit,sınır
+limitation,sınırlama
+limited,sınırlı
+line,hat
+link,bağlantı
+lip,dudak
+list,liste
+listen,dinlemek
+literally,kelimenin tam anlamıyla
+literary,edebi
+literature,Edebiyat
+little,biraz
+live,canlı olarak
+living,yaşamak
+load,yük
+loan,borç
+local,yerel
+locate,yerini belirlemek
+location,yer
+lock,kilit
+long,uzun
+long-term,uzun vadeli
+look,bakmak
+loose,gevşetmek
+lose,kaybetmek
+loss,kayıp
+lost,kayıp
+lot,çok güzelsin
+lots,çok
+loud,yüksek sesle
+love,Aşk
+lovely,sevimli
+lover,sevgili
+low,düşük
+lower,daha düşük
+luck,şans
+lucky,şanslı
+lunch,öğle yemeği
+lung,akciğer
+machine,makine
+mad,kızgın
+magazine,dergi
+mail,posta
+main,ana
+mainly,esasen
+maintain,bakım yapmak
+maintenance,bakım
+major,ana
+majority,çoğunluk
+make,Yapmak
+maker,yapıcı
+makeup,makyaj yapmak
+male,erkek
+mall,alışveriş Merkezi
+man,adam
+manage,üstesinden gelmek
+management,yönetmek
+manager,yönetici
+manner,tavır
+manufacturer,üretici firma
+manufacturing,üretme
+many,birçok
+map,harita
+margin,kenar boşluğu
+mark,işaret
+market,Pazar
+marketing,pazarlama
+marriage,evlilik
+married,evli
+marry,evlenmek
+mask,maske
+mass,kitle
+massive,cüsseli
+master,usta
+match,kibrit
+material,malzeme
+math,matematik
+matter,Önemli olmak
+may,Mayıs
+maybe,belki
+mayor,Belediye Başkanı
+me,ben mi
+meal,yemek
+mean,kastetmek
+meaning,anlam
+meanwhile,bu sırada
+measure,ölçüm
+measurement,ölçüm
+meat,et
+mechanism,mekanizma
+media,medya
+medical,tıbbi
+medication,ilaç tedavisi
+medicine,ilaç
+medium,orta
+meet,tanışmak
+meeting,toplantı
+member,üye
+membership,üyelik
+memory,hafıza
+mental,zihinsel
+mention,Anma
+menu,Menü
+mere,sadece
+merely,sadece
+mess,karışıklık
+message,İleti
+metal,metal
+meter,metre
+method,yöntem
+Mexican,Meksikalı
+middle,orta
+might,belki
+military,askeri
+milk,Süt
+million,milyon
+mind,zihin
+mine,benim
+minister,bakan
+minor,küçük
+minority,azınlık
+minute,dakika
+miracle,mucize
+mirror,ayna
+miss,Özlemek
+missile,füze
+mission,misyon
+mistake,hata
+mix,karışım
+mixture,karışım
+mm-hmm,mm-hmm
+mode,mod
+model,model
+moderate,ılıman
+modern,modern
+modest,mütevazı
+mom,anne
+moment,an
+money,para
+monitor,monitör
+month,ay
+mood,mod
+moon,ay
+moral,ahlaki
+more,daha fazla
+moreover,Dahası
+morning,sabah
+mortgage,ipotek
+most,çoğu
+mostly,çoğunlukla
+mother,anne
+motion,hareket
+motivation,motivasyon
+motor,motor
+mount,binmek
+mountain,dağ
+mouse,fare
+mouth,ağız
+move,hareket
+movement,hareket
+movie,film
+Mr,Bay
+Mrs,Bayan
+Ms,Hanım
+much,fazla
+multiple,çoklu
+murder,cinayet
+muscle,kas
+museum,müze
+music,müzik
+musical,müzikal
+musician,müzisyen
+Muslim,Müslüman
+must,zorunlu
+mutual,karşılıklı
+my,benim
+myself,kendim
+mystery,Gizem
+myth,efsane
+naked,çıplak
+name,isim
+narrative,anlatı
+narrow,dar
+nation,ulus
+national,Ulusal
+native,yerli
+natural,doğal
+naturally,doğal olarak
+nature,Doğa
+near,yakın
+nearby,yakında
+nearly,az kalsın
+necessarily,mutlaka
+necessary,gerekli
+neck,boyun
+need,ihtiyaç
+negative,olumsuz
+negotiate,müzakere etmek
+negotiation,müzakere
+neighbor,komşu
+neighborhood,komşu
+neither,hiç biri
+nerve,sinir
+nervous,gergin
+net,ağ
+network,ağ
+never,asla
+nevertheless,yine de
+new,yeni
+newly,yeni
+news,Haberler
+newspaper,gazete
+next,sonraki
+nice,Güzel
+night,gece
+nine,dokuz
+no,numara
+nobody,hiç kimse
+nod,başını sallamak
+noise,gürültü, ses
+nomination,adaylık
+none,Yok
+nonetheless,Her şeye rağmen
+nor,ne de
+normal,normal
+normally,normalde
+north,Kuzey
+northern,kuzey
+nose,burun
+not,Olumsuz
+note,Not
+nothing,Hiçbir şey
+notice,fark etme
+notion,kavram
+novel,Roman
+now,şimdi
+nowhere,Hiçbir yerde
+n't,hayır
+nuclear,nükleer
+number,sayı
+numerous,çeşitli
+nurse,hemşire
+nut,ceviz
+object,nesne
+objective,amaç
+obligation,yükümlülük
+observation,gözlem
+observe,gözlemek
+observer,gözlemci
+obtain,elde etmek
+obvious,bariz
+obviously,açıkça
+occasion,fırsat
+occasionally,bazen
+occupation,Meslek
+occupy,işgal etmek
+occur,meydana gelmek
+ocean,okyanus
+odd,garip
+odds,oranlar
+of,ile ilgili
+off,kapalı
+offense,suç
+offensive,saldırgan
+offer,teklif
+office,ofis
+officer,subay
+official,resmi
+often,sıklıkla
+oh,Ah
+oil,sıvı yağ
+ok,Tamam
+okay,Tamam
+old,eskimiş
+Olympic,Olimpiyat
+on,üzerinde
+once,bir Zamanlar
+one,bir
+ongoing,devam eden
+onion,soğan
+online,internet üzerinden
+only,bir tek
+onto,üzerine
+open,açık
+opening,açılış
+operate,işletmek
+operating,işletme
+operation,operasyon
+operator,Şebeke
+opinion,fikir
+opponent,rakip
+opportunity,fırsat
+oppose,karşı çıkmak
+opposite,zıt
+opposition,muhalefet
+option,seçenek
+or,veya
+orange,turuncu
+order,Emir
+ordinary,sıradan
+organic,organik
+organization,organizasyon
+organize,düzenlemek
+orientation,oryantasyon
+origin,Menşei
+original,orijinal
+originally,aslında
+other,başka
+others,diğerleri
+otherwise,aksi halde
+ought,gerekir
+our,bizim
+ourselves,kendimizi
+out,dışarı
+outcome,sonuç
+outside,dıştan
+oven,fırın
+over,üzerinde
+overall,etraflı
+overcome,aşmak
+overlook,görmezden gelmek
+owe,sahip olmak
+own,sahip olmak
+owner,sahip
+pace,adımlamak
+pack,ambalaj
+package,paket
+page,sayfa
+pain,Ağrı
+painful,acı verici
+paint,boya
+painter,ressam
+painting,tablo
+pair,çift
+pale,solgun
+Palestinian,Filistin
+palm,avuç içi
+pan,tava
+panel,panel
+pant,pantolon
+paper,kağıt
+parent,ebeveyn
+park,park
+parking,otopark
+part,Bölüm
+participant,katılımcı
+participate,Katıl
+participation,katılım
+particular,belirli
+particularly,özellikle de
+partly,kısmen
+partner,ortak
+partnership,ortaklık
+party,Parti
+pass,geçmek
+passage,geçit
+passenger,yolcu
+passion,tutku
+past,geçmiş
+patch,yama
+path,yol
+patient,hasta
+pattern,Desen
+pause,Duraklat
+pay,ödemek
+payment,Ödeme
+PC,bilgisayar
+peace,Barış
+peak,doruğa ulaşmak
+peer,akran
+penalty,ceza
+people,insanlar
+pepper,biber
+per,başına
+perceive,algılamak
+percentage,yüzde
+perception,algı
+perfect,kusursuz
+perfectly,mükemmel bir şekilde
+perform,rol yapmak
+performance,verim
+perhaps,belki
+period,dönem
+permanent,kalıcı
+permission,izin
+permit,izin vermek
+person,kişi
+personal,kişiye özel
+personality,kişilik
+personally,Şahsen
+personnel,personel
+perspective,perspektif
+persuade,ikna etmek
+pet,Evcil Hayvan
+phase,faz
+phenomenon,fenomen
+philosophy,Felsefe
+phone,telefon
+photo,Fotoğraf
+photograph,fotoğraf
+photographer,fotoğrafçı
+phrase,ifade etmek
+physical,fiziksel
+physically,fiziksel olarak
+physician,doktor
+piano,piyano
+pick,seçmek
+picture,resim
+pie,turta
+piece,adet
+pile,istif
+pilot,pilot
+pine,çam
+pink,pembe
+pipe,boru
+pitch,saha
+place,yer
+plan,plan
+plane,uçak
+planet,gezegen
+planning,planlama
+plant,bitki
+plastic,plastik
+plate,plaka
+platform,platform
+play,Oyna
+player,oyuncu
+please,lütfen
+pleasure,Zevk
+plenty,bolca
+plot,komplo
+plus,artı
+PM,ÖĞLEDEN SONRA
+pocket,cep
+poem,şiir
+poet,şair
+poetry,şiir
+point,puan
+pole,kutup
+police,polis
+policy,politika
+political,siyasi
+politically,politik olarak
+politician,politikacı
+politics,siyaset
+poll,anket
+pollution,kirlilik
+pool,havuz
+poor,fakir
+pop,pop
+popular,popüler
+population,nüfus
+porch,sundurma
+port,Liman
+portion,kısım
+portrait,Vesika
+portray,tasvir etmek
+pose,poz
+position,konum
+positive,pozitif
+possess,elinde bulundurmak
+possibility,olasılık
+possible,mümkün
+possibly,muhtemelen
+post,İleti
+pot,tencere
+potato,Patates
+potential,potansiyel
+potentially,potansiyel olarak
+pound,pound
+pour,dökün
+poverty,yoksulluk
+powder,pudra
+power,güç
+powerful,güçlü
+practical,pratik
+practice,uygulama
+pray,dua etmek
+prayer,namaz
+precisely,tam
+predict,tahmin etmek
+prefer,tercih etmek
+preference,tercih
+pregnancy,gebelik
+pregnant,hamile
+preparation,hazırlık
+prepare,Hazırlamak
+prescription,reçete
+presence,mevcudiyet
+present,sunmak
+presentation,sunum
+preserve,korumak
+president,Devlet Başkanı
+presidential,başkanlık
+press,basmak
+pressure,baskı yapmak
+pretend,numara yapmak
+pretty,güzel
+prevent,önlemek
+previous,öncesi
+previously,Önceden
+price,fiyat
+pride,gurur
+priest,rahip
+primarily,öncelikli olarak
+primary,öncelik
+prime,astar vurmak
+principal,Müdür
+principle,prensip
+print,Yazdır
+prior,önceki
+priority,öncelik
+prison,hapishane
+prisoner,mahkum
+privacy,mahremiyet
+private,özel
+probably,muhtemelen
+problem,sorun
+procedure,prosedür
+proceed,ilerlemek
+process,işlem
+produce,üretmek
+producer,üretici
+product,ürün
+production,üretme
+profession,uzmanlık alanı
+professional,profesyonel
+professor,profesör
+profile,profil
+profit,kâr
+program,program
+progress,ilerlemek
+project,proje
+prominent,öne çıkan
+promise,söz
+promote,terfi
+prompt,çabuk
+proof,kanıt
+proper,düzgün
+properly,uygun şekilde
+property,Emlak
+proportion,oran
+proposal,teklif
+propose,teklif etmek, önermek
+proposed,önerilen
+prosecutor,Savcı
+prospect,olasılık
+protect,korumak
+protection,koruma
+protein,protein
+protest,protesto
+proud,gurur duymak
+prove,ispat et
+provide,sağlamak
+provider,Sağlayıcı
+province,vilayet
+provision,önlem
+psychological,psikolojik
+psychologist,psikolog
+psychology,Psikoloji
+public,halka açık
+publication,yayın
+publicly,halka açık
+publish,Yayınla
+publisher,Yayımcı
+pull,çekmek
+punishment,ceza
+purchase,satın almak
+pure,saf
+purpose,amaç
+pursue,izlemek
+push,itmek
+put,koymak
+qualify,nitelemek
+quality,kalite
+quarter,çeyrek
+quarterback,oyun kurucu
+question,soru
+quick,hızlı
+quickly,hızlıca
+quiet,sessizlik
+quietly,sessizce
+quit,çıkış yapmak
+quite,epeyce
+quote,alıntı
+race,yarış
+racial,ırksal
+radical,radikal
+radio,radyo
+rail,Demiryolu
+rain,yağmur
+raise,artırmak
+range,Aralık
+rank,rütbe
+rapid,ani
+rapidly,hızlıca
+rare,nadir
+rarely,nadiren
+rate,oran
+rather,yerine
+rating,değerlendirme
+ratio,oran
+raw,çiğ
+reach,ulaşmak
+react,tepki
+reaction,reaksiyon
+read,okuman
+reader,okuyucu
+reading,okuma
+ready,hazır
+real,gerçek
+reality,gerçeklik
+realize,fark etmek
+really,gerçekten
+reason,sebep
+reasonable,mantıklı
+recall,hatırlamak
+receive,almak
+recent,son
+recently,son günlerde
+recipe,Tarif
+recognition,tanıma
+recognize,tanımak
+recommend,önermek
+recommendation,öneri
+record,kayıt
+recording,kayıt
+recover,iyileşmek
+recovery,kurtarma
+recruit,iyileştirmek
+red,kırmızı
+reduce,azaltmak
+reduction,kesinti
+refer,bahsetmek
+reference,referans
+reflect,yansıtmak
+reflection,refleks
+reform,reform
+refugee,mülteci
+refuse,reddetmek
+regard,saygınlık
+regarding,ilişkin
+regardless,ne olursa olsun
+regime,rejim
+region,bölge
+regional,bölgesel
+register,Kayıt ol
+regular,düzenli
+regularly,düzenli olarak
+regulate,düzenlemek
+regulation,düzenleme
+reinforce,takviye etmek
+reject,reddetmek
+relate,ilgili olmak
+relation,ilişki
+relationship,ilişki
+relative,akraba
+relatively,Nispeten
+relax,rahatlamak
+release,serbest bırakmak
+relevant,ilgili
+relief,Rahatlama
+religion,din
+religious,din
+rely,güvenmek
+remain,geriye kalmak
+remaining,geriye kalan
+remarkable,dikkat çekici
+remember,hatırlamak
+remind,hatırlatmak
+remote,uzak
+remove,kaldırmak
+repeat,tekrarlamak
+repeatedly,defalarca
+replace,yer değiştirmek
+reply,cevap vermek
+report,rapor
+reporter,muhabir
+represent,temsil etmek
+representation,temsil
+representative,temsilci
+Republican,Cumhuriyetçi
+reputation,itibar
+request,rica etmek
+require,gerekmek
+requirement,gereklilik
+research,Araştırma
+researcher,araştırmacı
+resemble,benzemek
+reservation,rezervasyon
+resident,ikamet eden kişi
+resist,direnmek
+resistance,direnç
+resolution,çözüm
+resolve,çözmek
+resort,dinlenme tesisi
+resource,kaynak
+respect,saygı
+respond,cevap vermek
+respondent,cevap veren
+response,cevap
+responsibility,sorumluluk
+responsible,sorumluluk sahibi
+rest,dinlenmek
+restaurant,restoran
+restore,onarmak
+restriction,kısıtlama
+result,sonuç
+retain,sürdürmek
+retire,emekli olmak
+retirement,emeklilik
+return,dönüş
+reveal,ortaya çıkartmak
+revenue,gelir
+review,gözden geçirmek
+revolution,devrim
+rhythm,ritim
+rice,pilav
+rich,zengin
+rid,kurtulmakboyun
+ride,ihtiyaç
+rifle,olumsuz
+right,müzakere etmek
+ring,müzakere
+rise,komşu
+risk,komşu
+river,hiç biri
+road,sinir
+rock,gergin
+role,ağ
+roll,ağ
+romantic,asla
+roof,yine de
+room,yeni
+root,yeni
+rope,Haberler
+rose,gazete
+rough,sonraki
+roughly,Güzel
+round,gece
+route,dokuz
+routine,numara
+row,hiç kimse
+rub,başını sallamak
+rule,gürültü, ses
+run,adaylık
+running,Yok
+rural,Her şeye rağmen
+rush,ne de
+Russian,normal
+sacred,normalde
+sad,Kuzey
+safe,kuzey
+safety,burun
+sake,Olumsuz
+salad,Not
+salary,Hiçbir şey
+sale,fark etme
+sales,kavram
+salt,Roman
+same,şimdi
+sample,Hiçbir yerde
+sanction,hayır
+sand,nükleer
+satellite,sayı
+satisfaction,çeşitli
+satisfy,hemşire
+sauce,ceviz
+save,nesne
+saving,amaç
+say,yükümlülük
+scale,gözlem
+scandal,gözlemek
+scared,gözlemci
+scenario,elde etmek
+scene,bariz
+schedule,açıkça
+scheme,fırsat
+scholar,bazen
+scholarship,Meslek
+school,işgal etmek
+science,meydana gelmek
+scientific,okyanus
+scientist,garip
+scope,oranlar
+score,ile ilgili
+scream,kapalı
+screen,suç
+script,saldırgan
+sea,teklif
+search,ofis
+season,subay
+seat,resmi
+second,sıklıkla
+secret,Ah
+secretary,sıvı yağ
+section,Tamam
+sector,Tamam
+secure,eskimiş
+security,Olimpiyat
+see,üzerinde
+seed,bir Zamanlar
+seek,bir
+seem,devam eden
+segment,soğan
+seize,internet üzerinden
+select,bir tek
+selection,üzerine
+self,açık
+sell,açılış
+Senate,işletmek
+senator,işletme
+send,operasyon
+senior,Şebeke
+sense,fikir
+sensitive,rakip
+sentence,fırsat
+separate,karşı çıkmak
+sequence,zıt
+series,muhalefet
+serious,seçenek
+seriously,veya
+serve,turuncu
+service,Emir
+session,sıradan
+set,organik
+setting,organizasyon
+settle,düzenlemek
+settlement,oryantasyon
+seven,Menşei
+several,orijinal
+severe,aslında
+sex,başka
+sexual,diğerleri
+shade,aksi halde
+shadow,gerekir
+shake,bizim
+shall,kendimizi
+shape,dışarı
+share,sonuç
+sharp,dıştan
+she,fırın
+sheet,üzerinde
+shelf,etraflı
+shell,aşmak
+shelter,görmezden gelmek
+shift,sahip olmak
+shine,sahip olmak
+ship,sahip
+shirt,adımlamak
+shit,ambalaj
+shock,paket
+shoe,sayfa
+shoot,Ağrı
+shooting,acı verici
+shop,boya
+shopping,ressam
+shore,tablo
+short,çift
+shortly,solgun
+shot,Filistin
+should,avuç içi
+shoulder,tava
+shout,panel
+show,pantolon
+shower,kağıt
+shrug,ebeveyn
+shut,park
+sick,otopark
+side,Bölüm
+sigh,katılımcı
+sight,Katıl
+sign,katılım
+signal,belirli
+significance,özellikle de
+significant,kısmen
+significantly,ortak
+silence,ortaklık
+silent,Parti
+silver,geçmek
+similar,geçit
+similarly,yolcu
+simple,tutku
+simply,geçmiş
+sin,yama
+since,yol
+sing,hasta
+singer,Desen
+single,Duraklat
+sink,ödemek
+sir,Ödeme
+sister,bilgisayar
+sit,Barış
+site,doruğa ulaşmak
+situation,akran
+six,ceza
+size,insanlar
+ski,biber
+skill,başına
+skin,algılamak
+sky,yüzde
+slave,algı
+sleep,kusursuz
+slice,mükemmel bir şekilde
+slide,rol yapmak
+slight,verim
+slightly,belki
+slip,dönem
+slow,kalıcı
+slowly,izin
+small,izin vermek
+smart,kişi
+smell,kişiye özel
+smile,kişilik
+smoke,Şahsen
+smooth,personel
+snap,perspektif
+snow,ikna etmek
+so,Evcil Hayvan
+so-called,faz
+soccer,fenomen
+social,Felsefe
+society,telefon
+soft,Fotoğraf
+software,fotoğraf
+soil,fotoğrafçı
+solar,ifade etmek
+soldier,fiziksel
+solid,fiziksel olarak
+solution,doktor
+solve,piyano
+some,seçmek
+somebody,resim
+somehow,turta
+someone,adet
+something,istif
+sometimes,pilot
+somewhat,çam
+somewhere,pembe
+son,boru
+song,saha
+soon,yer
+sophisticated,plan
+sorry,uçak
+sort,gezegen
+soul,planlama
+sound,bitki
+soup,plastik
+source,plaka
+south,platform
+southern,Oyna
+Soviet,oyuncu
+space,lütfen
+Spanish,Zevk
+speak,bolca
+speaker,komplo
+special,artı
+specialist,ÖĞLEDEN SONRA
+species,cep
+specific,şiir
+specifically,şair
+speech,şiir
+speed,puan
+spend,kutup
+spending,polis
+spin,politika
+spirit,siyasi
+spiritual,politik olarak
+split,politikacı
+spokesman,siyaset
+sport,anket
+spot,kirlilik
+spread,havuz
+spring,fakir
+square,pop
+squeeze,popüler
+stability,nüfus
+stable,sundurma
+staff,Liman
+stage,kısım
+stair,Vesika
+stake,tasvir etmek
+stand,poz
+standard,konum
+standing,pozitif
+star,elinde bulundurmak
+stare,olasılık
+start,mümkün
+state,muhtemelen
+statement,İleti
+station,tencere
+statistics,Patates
+status,potansiyel
+stay,potansiyel olarak
+steady,pound
+steal,dökün
+steel,yoksulluk
+step,pudra
+stick,güç
+still,güçlü
+stir,pratik
+stock,uygulama
+stomach,dua etmek
+stone,namaz
+stop,tam
+storage,tahmin etmek
+store,tercih etmek
+storm,tercih
+story,gebelik
+straight,hamile
+strange,hazırlık
+stranger,Hazırlamak
+strategic,reçete
+strategy,mevcudiyet
+stream,sunmak
+street,sunum
+strength,korumak
+strengthen,Devlet Başkanı
+stress,başkanlık
+stretch,basmak
+strike,baskı yapmak
+string,numara yapmak
+strip,güzel
+stroke,önlemek
+strong,öncesi
+strongly,Önceden
+structure,fiyat
+struggle,gurur
+student,rahip
+studio,öncelikli olarak
+study,öncelik
+stuff,astar vurmak
+stupid,Müdür
+style,prensip
+subject,Yazdır
+submit,önceki
+subsequent,öncelik
+substance,hapishane
+substantial,mahkum
+succeed,mahremiyet
+success,özel
+successful,muhtemelen
+successfully,sorun
+such,prosedür
+sudden,ilerlemek
+suddenly,işlem
+sue,üretmek
+suffer,üretici
+sufficient,ürün
+sugar,üretme
+suggest,uzmanlık alanı
+suggestion,profesyonel
+suicide,profesör
+suit,profil
+summer,kâr
+summit,program
+sun,ilerlemek
+super,proje
+supply,öne çıkan
+support,söz
+supporter,terfi
+suppose,çabuk
+supposed,kanıt
+Supreme,düzgün
+sure,uygun şekilde
+surely,Emlak
+surface,oran
+surgery,teklif
+surprise,teklif etmek, önermek
+surprised,önerilen
+surprising,Savcı
+surprisingly,olasılık
+surround,korumak
+survey,koruma
+survival,protein
+survive,protesto
+survivor,gurur duymak
+suspect,ispat et
+sustain,sağlamak
+swear,Sağlayıcı
+sweep,vilayet
+sweet,önlem
+swim,psikolojik
+swing,psikolog
+switch,Psikoloji
+symbol,halka açık
+symptom,yayın
+system,halka açık
+table,Yayınla
+tablespoon,Yayımcı
+tactic,çekmek
+tail,ceza
+take,satın almak
+tale,saf
+talent,amaç
+talk,izlemek
+tall,itmek
+tank,koymak
+tap,nitelemek
+tape,kalite
+target,çeyrek
+task,oyun kurucu
+taste,soru
+tax,hızlı
+taxpayer,hızlıca
+tea,sessizlik
+teach,sessizce
+teacher,çıkış yapmak
+teaching,epeyce
+team,alıntı
+tear,yarış
+teaspoon,ırksal
+technical,radikal
+technique,radyo
+technology,Demiryolu
+teen,yağmur
+teenager,artırmak
+telephone,Aralık
+telescope,rütbe
+television,ani
+tell,hızlıca
+temperature,nadir
+temporary,nadiren
+ten,oran
+tend,yerine
+tendency,değerlendirme
+tennis,oran
+tension,çiğ
+tent,ulaşmak
+term,tepki
+terms,reaksiyon
+terrible,okuman
+territory,okuyucu
+terror,okuma
+terrorism,hazır
+terrorist,gerçek
+test,gerçeklik
+testify,fark etmek
+testimony,gerçekten
+testing,sebep
+text,mantıklı
+than,hatırlamak
+thank,almak
+thanks,son
+that,son günlerde
+the,Tarif
+theater,tanıma
+their,tanımak
+them,önermek
+theme,öneri
+themselves,kayıt
+then,kayıt
+theory,iyileşmek
+therapy,kurtarma
+there,iyileştirmek
+therefore,kırmızı
+these,azaltmak
+they,kesinti
+thick,bahsetmek
+thin,referans
+thing,yansıtmak
+think,refleks
+thinking,reform
+third,mülteci
+thirty,reddetmek
+this,saygınlık
+those,ilişkin
+though,ne olursa olsun
+thought,rejim
+thousand,bölge
+threat,bölgesel
+threaten,Kayıt ol
+three,düzenli
+throat,düzenli olarak
+through,düzenlemek
+throughout,düzenleme
+throw,takviye etmek
+thus,reddetmek
+ticket,ilgili olmak
+tie,ilişki
+tight,ilişki
+time,akraba
+tiny,Nispeten
+tip,rahatlamak
+tire,serbest bırakmak
+tired,ilgili
+tissue,Rahatlama
+title,din
+to,din
+tobacco,güvenmek
+today,geriye kalmak
+toe,geriye kalan
+together,dikkat çekici
+tomato,hatırlamak
+tomorrow,hatırlatmak
+tone,uzak
+tongue,kaldırmak
+tonight,tekrarlamak
+too,defalarca
+tool,yer değiştirmek
+tooth,cevap vermek
+top,rapor
+topic,muhabir
+toss,temsil etmek
+total,temsil
+totally,temsilci
+touch,Cumhuriyetçi
+tough,itibar
+tour,rica etmek
+tourist,gerekmek
+tournament,gereklilik
+toward,Araştırma
+towards,araştırmacı
+tower,benzemek
+town,rezervasyon
+toy,ikamet eden kişi
+trace,direnmek
+track,direnç
+trade,çözüm
+tradition,çözmek
+traditional,dinlenme tesisi
+traffic,kaynak
+tragedy,saygı
+trail,cevap vermek
+train,cevap veren
+training,cevap
+transfer,sorumluluk
+transform,sorumluluk sahibi
+transformation,dinlenmek
+transition,restoran
+translate,onarmak
+transportation,kısıtlama
+travel,sonuç
+treat,sürdürmek
+treatment,emekli olmak
+treaty,emeklilik
+tree,dönüş
+tremendous,ortaya çıkartmak
+trend,gelir
+trial,gözden geçirmek
+tribe,devrim
+trick,ritim
+trip,pilav
+troop,zengin
+trouble,kurtulmak
+truck,sürmek
+true,tüfek
+truly,sağ
+trust,yüzük
+truth,çocuk büyütmek
+try,risk
+tube,nehir
+tunnel,yol
+turn,kaynak
+TV,rol
+twelve,rulo
+twenty,romantik
+twice,çatı
+twin,oda
+two,kök
+type,halat
+typical,Gül
+typically,kaba
+ugly,kabaca
+ultimate,yuvarlak
+ultimately,güzergah
+unable,rutin
+uncle,sıra
+under,ovmak
+undergo,kural
+understand,Çalıştırmak
+understanding,koşma
+unfortunately,kırsal
+uniform,acele etmek
+union,Rusça
+unique,kutsal
+unit,üzgün
+United,güvenli
+universal,Emniyet
+universe,uğruna
+university,salata
+unknown,aylık maaş
+unless,satış
+unlike,satış
+unlikely,tuz
+until,aynı
+unusual,örneklem
+up,yaptırım
+upon,kum
+upper,uydu
+urban,memnuniyet
+urge,tatmin etmek
+us,Sos
+use,kaydetmek
+used,tasarruf
+useful,söylemek
+user,ölçek
+usual,skandal
+usually,korkmuş
+utility,senaryo
+vacation,faliyet alani, sahne
+valley,Takvim
+valuable,şema
+value,akademisyen
+variable,burs
+variation,okul
+variety,Bilim
+various,ilmi
+vary,Bilim insanı
+vast,kapsam
+vegetable,Puan
+vehicle,çığlık
+venture,ekran
+version,senaryo
+versus,Deniz
+very,arama
+vessel,mevsim
+veteran,koltuk
+via,ikinci
+victim,gizli
+victory,Sekreter
+video,Bölüm
+view,sektör
+viewer,güvenli
+village,güvenlik
+violate,görmek
+violation,tohum
+violence,aramak
+violent,gözükmek
+virtually,segment
+virtue,kapmak
+virus,Seçme
+visible,seçim
+vision,öz
+visit,satmak
+visitor,Senato
+visual,senatör
+vital,göndermek
+voice,Kıdemli
+volume,algı
+volunteer,duyarlı
+vote,cümle
+voter,ayırmak
+vs,sıra
+vulnerable,dizi
+wage,cidden
+wait,ciddi anlamda
+wake,sert
+walk,hizmet
+wall,oturum, toplantı, celse
+wander,Ayarlamak
+want,ayar
+war,yerleşmek
+warm,yerleşme
+warn,Yedi
+warning,birçok
+wash,haşin
+waste,seks
+watch,cinsel
+water,gölge
+wave,gölge
+way,sallamak
+we,acak
+weak,şekil
+wealth,Paylaş
+wealthy,keskin
+weapon,o
+wear,çarşaf
+weather,raf
+wedding,kabuk
+week,barınak
+weekend,vardiya
+weekly,parlamak
+weigh,gemi
+weight,gömlek
+welcome,bok
+welfare,şok
+well,ayakkabı
+west,ateş etmek
+western,çekim
+wet,Dükkan
+what,alışveriş yapmak
+whatever,sahil
+wheel,kısa boylu
+when,kısaca
+whenever,vuruş
+where,NS
+whereas,omuz
+whether,bağırmak
+which,göstermek
+while,duş
+whisper,omuz silkmek
+white,kapamak
+who,hasta
+whole,yan
+whom,iç çekmek
+whose,görme
+why,imza
+wide,sinyal
+widely,önem
+widespread,önemli
+wife,önemli ölçüde
+wild,sessizlik
+will,sessiz
+willing,gümüş
+win,benzer
+wind,benzer şekilde
+window,basit
+wine,basitçe
+wing,günah
+winner,dan beri
+winter,şarkı söyle
+wipe,şarkıcı
+wire,bekar
+wisdom,lavabo
+wise,Sayın
+wish,kız kardeş
+with,oturmak
+withdraw,alan
+within,durum
+without,altı
+witness,boy
+woman,kayak
+wonder,beceri
+wonderful,deri
+wood,gökyüzü
+wooden,köle
+word,uyku
+work,dilim
+worker,kaymak
+working,hafif
+works,biraz
+workshop,kayma
+world,yavaş
+worried,yavaşça
+worry,küçük
+worth,akıllı
+would,Koklamak
+wound,gülümsemek
+wrap,Sigara içmek
+write,düz
+writer,patlatmak
+writing,kar
+wrong,Bu yüzden
+yard,Lafta
+yeah,Futbol
+year,sosyal
+yell,toplum
+yellow,yumuşak
+yes,yazılım
+yesterday,toprak
+yet,güneş
+yield,asker
+you,sağlam
+young,çözüm
+your,çözmek
+yours,biraz
+yourself,birisi
+youth,bir şekilde
+zone,birşey
